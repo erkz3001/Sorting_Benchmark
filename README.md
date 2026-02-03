@@ -21,5 +21,3 @@ Bài tập này thực hiện so sánh thời gian chạy thực tế của các
 * **Test 1 -> Test 5:** Dữ liệu đầu vào là số thực.
 * **Test 6 -> Test 10:** Dữ liệu đầu vào là số nguyên.
 
-## 3. Kết quả tóm tắt
-Nhìn chung, Numpy Sort cho tốc độ nhanh nhất, trong khi Heap Sort chậm nhất ở các test case lớn.
